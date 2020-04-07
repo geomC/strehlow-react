@@ -73,7 +73,7 @@
     "react-router-dom": "^5.0.1",
     "react-transition-group": "^4.1.1",
     "reactstrap": "^8.0.0",
-    "styled-components": "^4.3.1",
+    "styled-components": "^5.0.1",
     "styled-normalize": "^8.0.6",
     "unfetch": "^4.1.0",
     "unistore": "^3.4.1"
